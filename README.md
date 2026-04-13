@@ -12,11 +12,8 @@
 
 > by kriston jomari
 
-hello, more info in (`sticks_n_stones.ipynb`)[./sticks_n_stones.ipynb]
+hello, more info in (`sticks_n_stones.ipynb`)[./sticks_n_stones.ipynb], paper at https://github.com/Kr1s7on/yet-another-study-on-rocks/blob/main/Asteroid%20Hazard%20Prediction.pdf
 
-snippet:
-```
-in this notebook, we will try to predict the hazard level of asteroids in relation to hitting us people on planet earth!!
-```
+tldr: predicting hazard level of asteroid hitting you and me
 
 happy reading!
